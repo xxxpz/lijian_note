@@ -1,0 +1,12 @@
+// http 缓存 分为
+
+// http 头
+
+// 'Cache-Control': no-store  禁止进行缓存
+// Cache-Control: no-cache  强制确认缓存
+// Cache-Control: private  私有缓存
+// Cache-Control: public   公有缓存
+// Cache-Control: max-age=31536000  // 缓存过期
+// Cache-Control: must-revalidate 缓存过期验证
+
+Accept 

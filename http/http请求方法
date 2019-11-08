@@ -1,0 +1,12 @@
+
+get 请求一般用户请求资源 // 可以缓存的
+
+DELETE
+GET
+HEAD
+OPTION
+PATCH
+POST
+PUT
+TRACE
+CONNECt
